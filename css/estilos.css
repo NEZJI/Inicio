@@ -320,11 +320,13 @@ footer {
 	border-radius: 50%;
 	text-align: center;
 	color: #fff;
+	transition: all 400ms;
 }
 
 .social-media-icon:hover {
 	background: #fff;
 	color: rgba(32, 207, 33, 1);
+	transform: scale(1.1, 1.1);
 }
 
 .social-media-icon i {
